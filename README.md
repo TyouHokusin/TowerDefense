@@ -1,3 +1,5 @@
+This is an assignment done in my 3rd year in Tsinghua University.
+
 # overall
 This game is developed using Greenfoot. Greenfoot is an educational Java integrated development environment that is perfect for creating small games. This game implements the complete tower defense game process, from difficulty selection to spending money to build towers, to several waves of monster invasions, and ultimately, victory or defeat. The map consists of 10x10 grids. Time is measured in frames, and locally, 1 second is approximately 60 frames. Several key scenes are shown in the figure.
 
